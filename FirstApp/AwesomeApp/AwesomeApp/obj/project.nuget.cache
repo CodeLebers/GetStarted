@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "k5HXKfzXcmG2ZI0QtZAVDyMKpk85seuA12ibLYAyPLC4I1HBB5n6jwANUl7jD08jdpzDdhl+qt7KtrtiM+Wmyw==",
+  "success": true,
+  "projectFilePath": "F:\\Code Lebers\\xamarin\\xamarin-forms-samples-main\\GetStarted\\FirstApp\\AwesomeApp\\AwesomeApp\\AwesomeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\feber\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\feber\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\feber\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}

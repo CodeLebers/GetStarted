@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "37Qak1Vd1EBMLZcW4sg+vkaBeDkR2Sr0ceFu8sd6o1ap7buuBVDzTQplm6RCa4NfMdSPc7qGv+PWjyB14QLtUA==",
+  "success": true,
+  "projectFilePath": "F:\\Code Lebers\\xamarin\\xamarin-forms-samples-main\\GetStarted\\FirstApp\\AwesomeApp\\AwesomeApp.iOS\\AwesomeApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\feber\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}
